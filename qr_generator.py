@@ -61,7 +61,7 @@ _FINDER_PATTERN = np.array([
     [1, 1, 1, 1, 1, 1, 1],
 ], dtype=np.uint8)
 # --------------------------------------------------------------------
-
+#new
 
 # # ... (rest of the file is unchanged until the function below) ...
 
