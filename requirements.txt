@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+qrcode[pil]
+Pillow
+opencv-python-headless
+numpy
+requests
+python-multipart
